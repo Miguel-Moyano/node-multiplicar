@@ -1,0 +1,15 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Moyano",
+  "license": "ISC"
+}
